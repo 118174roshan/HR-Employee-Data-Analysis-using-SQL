@@ -1,4 +1,4 @@
-﻿use MINI_PROJECT;
+﻿use Hr_anayst;
 
 select top 12* from employee_data;
 /* 1) Salary Categorization
@@ -190,5 +190,6 @@ SELECT employee_id, name,
        ISNULL(city, 'Not Assigned') AS city,
        ISNULL(department, 'Not Assigned') AS department
 FROM employee_data;
+
 
 select top 5 * from employee_data;
