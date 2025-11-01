@@ -1,0 +1,201 @@
+﻿employee_id,name,salary,salary_review_flag
+E001,Deepak,39670.00,satisfactory
+E002,Riya,34554.00,satisfactory
+E003,Priya,90323.00,satisfactory
+E004,Priya,77809.00,satisfactory
+E005,Simran,59644.00,satisfactory
+E006,Vivek,89678.00,satisfactory
+E007,Harsh,28352.00,Review Required
+E008,Sneha,20617.00,Review Required
+E009,Rahul,31618.00,satisfactory
+E010,Simran,46949.00,satisfactory
+E011,Vivek,69435.00,satisfactory
+E012,Riya,57287.00,satisfactory
+E013,Deepak,115521.00,satisfactory
+E014,Aditya,45877.00,satisfactory
+E015,Rahul,52847.00,satisfactory
+E016,Kunal,40352.00,satisfactory
+E017,Isha,96940.00,satisfactory
+E018,Deepak,107671.00,satisfactory
+E019,Anjali,118708.00,satisfactory
+E020,Isha,33574.00,satisfactory
+E021,Rahul,88361.00,satisfactory
+E022,Anjali,89098.00,satisfactory
+E023,Roshan,21021.00,Review Required
+E024,Isha,107996.00,satisfactory
+E025,Riya,32085.00,satisfactory
+E026,Harsh,105584.00,satisfactory
+E027,Vivek,90649.00,satisfactory
+E028,Shreya,24003.00,Review Required
+E029,Harsh,114932.00,satisfactory
+E030,Priya,37586.00,satisfactory
+E031,Priya,47396.00,satisfactory
+E032,Kunal,93960.00,satisfactory
+E033,Aman,114470.00,satisfactory
+E034,Shreya,76966.00,satisfactory
+E035,Rahul,57534.00,satisfactory
+E036,Simran,76241.00,satisfactory
+E037,Harsh,105614.00,satisfactory
+E038,Anjali,64341.00,satisfactory
+E039,Riya,46649.00,satisfactory
+E040,Sneha,64586.00,satisfactory
+E041,Aditya,27183.00,Review Required
+E042,Priya,52539.00,satisfactory
+E043,Shreya,40216.00,satisfactory
+E044,Sneha,39567.00,satisfactory
+E045,Harsh,50900.00,satisfactory
+E046,Isha,90015.00,satisfactory
+E047,Priya,48974.00,satisfactory
+E048,Shreya,76957.00,satisfactory
+E049,Kunal,75855.00,satisfactory
+E050,Deepak,70924.00,satisfactory
+E051,Anjali,41704.00,satisfactory
+E052,Rahul,56738.00,satisfactory
+E053,Deepak,42340.00,satisfactory
+E054,Kunal,103724.00,satisfactory
+E055,Aman,64824.00,satisfactory
+E056,Anjali,79749.00,satisfactory
+E057,Aman,66684.00,satisfactory
+E058,Priya,88289.00,satisfactory
+E059,Riya,103183.00,satisfactory
+E060,Rahul,37623.00,satisfactory
+E061,Rahul,102952.00,satisfactory
+E062,Deepak,111593.00,satisfactory
+E063,Simran,97348.00,satisfactory
+E064,Rahul,59458.00,satisfactory
+E065,Isha,53577.00,satisfactory
+E066,Isha,110201.00,satisfactory
+E067,Priya,87226.00,satisfactory
+E068,Sneha,102407.00,satisfactory
+E069,Shreya,70284.00,satisfactory
+E070,Kunal,55470.00,satisfactory
+E071,Aman,112903.00,satisfactory
+E072,Roshan,65402.00,satisfactory
+E073,Deepak,94777.00,satisfactory
+E074,Isha,90388.00,satisfactory
+E075,Simran,57627.00,satisfactory
+E076,Vivek,111823.00,satisfactory
+E077,Isha,69475.00,satisfactory
+E078,Anjali,102989.00,satisfactory
+E079,Sneha,104411.00,satisfactory
+E080,Roshan,40973.00,satisfactory
+E081,Anjali,63302.00,satisfactory
+E082,Vivek,62057.00,satisfactory
+E083,Simran,104004.00,satisfactory
+E084,Simran,42190.00,satisfactory
+E085,Simran,103867.00,satisfactory
+E086,Harsh,30459.00,satisfactory
+E087,Simran,68080.00,satisfactory
+E088,Aman,104127.00,satisfactory
+E089,Rahul,58336.00,satisfactory
+E090,Deepak,63282.00,satisfactory
+E091,Shreya,53865.00,satisfactory
+E092,Roshan,49341.00,satisfactory
+E093,Simran,95086.00,satisfactory
+E094,Priya,110022.00,satisfactory
+E095,Riya,99974.00,satisfactory
+E096,Anjali,48126.00,satisfactory
+E097,Harsh,73280.00,satisfactory
+E098,Deepak,35340.00,satisfactory
+E099,Priya,90133.00,satisfactory
+E100,Aditya,104729.00,satisfactory
+E101,Harsh,28398.00,Review Required
+E102,Aman,96747.00,satisfactory
+E103,Simran,82851.00,satisfactory
+E104,Harsh,97456.00,satisfactory
+E105,Anjali,27015.00,Review Required
+E106,Vivek,76116.00,satisfactory
+E107,Rahul,103057.00,satisfactory
+E108,Riya,41080.00,satisfactory
+E109,Kunal,25026.00,Review Required
+E110,Sneha,94794.00,satisfactory
+E111,Isha,100888.00,satisfactory
+E112,Simran,23755.00,Review Required
+E113,Aman,111110.00,satisfactory
+E114,Shreya,88994.00,satisfactory
+E115,Sneha,63976.00,satisfactory
+E116,Anjali,113432.00,satisfactory
+E117,Riya,86040.00,satisfactory
+E118,Roshan,52623.00,satisfactory
+E119,Roshan,75378.00,satisfactory
+E120,Sneha,105340.00,satisfactory
+E121,Simran,79658.00,satisfactory
+E122,Riya,42883.00,satisfactory
+E123,Shreya,91834.00,satisfactory
+E124,Shreya,87432.00,satisfactory
+E125,Roshan,27809.00,Review Required
+E126,Isha,97061.00,satisfactory
+E127,Aditya,110939.00,satisfactory
+E128,Kunal,74849.00,satisfactory
+E129,Sneha,79660.00,satisfactory
+E130,Roshan,68582.00,satisfactory
+E131,Kunal,53956.00,satisfactory
+E132,Priya,75492.00,satisfactory
+E133,Aditya,40915.00,satisfactory
+E134,Aditya,39927.00,satisfactory
+E135,Isha,59810.00,satisfactory
+E136,Aditya,110610.00,satisfactory
+E137,Kunal,79026.00,satisfactory
+E138,Riya,37210.00,satisfactory
+E139,Anjali,20507.00,Review Required
+E140,Aman,97174.00,satisfactory
+E141,Isha,22669.00,Review Required
+E142,Roshan,32375.00,satisfactory
+E143,Harsh,114579.00,satisfactory
+E144,Kunal,26355.00,Review Required
+E145,Vivek,107655.00,satisfactory
+E146,Deepak,28740.00,Review Required
+E147,Shreya,114684.00,satisfactory
+E148,Priya,64037.00,satisfactory
+E149,Roshan,84644.00,satisfactory
+E150,Roshan,106032.00,satisfactory
+E151,Aditya,51173.00,satisfactory
+E152,Roshan,63014.00,satisfactory
+E153,Roshan,77590.00,satisfactory
+E154,Vivek,57040.00,satisfactory
+E155,Simran,91568.00,satisfactory
+E156,Isha,101083.00,satisfactory
+E157,Isha,20814.00,Review Required
+E158,Harsh,56858.00,satisfactory
+E159,Deepak,103027.00,satisfactory
+E160,Roshan,49651.00,satisfactory
+E161,Sneha,104828.00,satisfactory
+E162,Riya,28033.00,Review Required
+E163,Vivek,79309.00,satisfactory
+E164,Roshan,92615.00,satisfactory
+E165,Priya,106223.00,satisfactory
+E166,Kunal,27911.00,Review Required
+E167,Isha,44801.00,satisfactory
+E168,Aman,32755.00,satisfactory
+E169,Harsh,33817.00,satisfactory
+E170,Priya,88862.00,satisfactory
+E171,Aman,35961.00,satisfactory
+E172,Shreya,66806.00,satisfactory
+E173,Shreya,45124.00,satisfactory
+E174,Aditya,96100.00,satisfactory
+E175,Isha,39779.00,satisfactory
+E176,Riya,111873.00,satisfactory
+E177,Vivek,38728.00,satisfactory
+E178,Deepak,102078.00,satisfactory
+E179,Roshan,35250.00,satisfactory
+E180,Vivek,83255.00,satisfactory
+E181,Simran,43846.00,satisfactory
+E182,Aditya,57301.00,satisfactory
+E183,Roshan,100820.00,satisfactory
+E184,Sneha,25245.00,Review Required
+E185,Aditya,46751.00,satisfactory
+E186,Sneha,22992.00,Review Required
+E187,Isha,50030.00,satisfactory
+E188,Priya,118066.00,satisfactory
+E189,Harsh,106743.00,satisfactory
+E190,Aditya,68937.00,satisfactory
+E191,Isha,30482.00,satisfactory
+E192,Deepak,45730.00,satisfactory
+E193,Shreya,37534.00,satisfactory
+E194,Vivek,29672.00,Review Required
+E195,Shreya,83282.00,satisfactory
+E196,Deepak,43474.00,satisfactory
+E197,Kunal,46055.00,satisfactory
+E198,Simran,43082.00,satisfactory
+E199,Vivek,34368.00,satisfactory
+E200,Rahul,85743.00,satisfactory

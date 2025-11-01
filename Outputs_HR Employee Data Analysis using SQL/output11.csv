@@ -1,0 +1,6 @@
+﻿employee_id,name,department,salary,city,join_date,Allowance
+E001,Deepak,Support,39670.00,Chennai,2022-05-08,3967.00
+E002,Riya,Support,34554.00,Pune,2024-09-08,3455.40
+E003,Priya,Finance,90323.00,Bangalore,2022-04-23,9032.30
+E004,Priya,Operations,77809.00,Hyderabad,2024-01-22,7780.90
+E005,Simran,Finance,59644.00,Delhi,2024-01-24,5964.40
